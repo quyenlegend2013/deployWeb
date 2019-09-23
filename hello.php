@@ -1,3 +1,3 @@
 <?php
-  echo "xin chao moi nguoi!!!"
+  echo "xin chao moi nguoi!!!";
 ?>
